@@ -18,5 +18,10 @@ return {
 }
 
 ```
+
+
+
+## Screenshots
+
 ![preview](./static/preview.png)
 
